@@ -1,0 +1,57 @@
+{
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": [
+            "AthenaBackpack:"
+        ],
+        "price": 0
+    },
+    "daily2": {
+        "itemGrants": [
+            "AthenaDance:"
+        ],
+        "price": 0
+    },
+    "daily3": {
+        "itemGrants": [
+            "AthenaCharacter:"
+        ],
+        "price": 0
+    },
+    "daily4": {
+        "itemGrants": [
+            "AthenaDance:"
+        ],
+        "price": 0
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaPickaxe:"
+        ],
+        "price": 0
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaPickaxe:"
+        ],
+        "price": 0
+    },
+    "featured1": {
+        "itemGrants": [
+            "AthenaCharacter:"
+        ],
+        "price": 0
+    },
+    "featured2": {
+        "itemGrants": [
+            "AthenaCharacter:"
+        ],
+        "price": 0
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaCharacter:"
+        ],
+        "price": 0
+    }
+}
