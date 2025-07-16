@@ -17,7 +17,3 @@ Glider: "AthenaGlider:Example"
 Wrap: "AthenaItemWrap:Example"
 Loading Screen: "AthenaLoadingScreen:Example"
 Skydiving Contrail: "AthenaSkyDiveContrail:Example"
-
-Helpful Tips
-Use VS Code: It makes editing easier and shows you if something's wrong with your file.
-Double-Check with AI: Tools like ChatGPT can help review your JSON before you test it.
