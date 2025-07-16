@@ -14,55 +14,55 @@ The item shop is defined using a JSON file. It contains slots for both daily (da
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaBackpack:BID_004_BlackKnight"
+            "AthenaBackpack:"
         ],
         "price": 0
     },
     "daily2": {
         "itemGrants": [
-            "AthenaDance:EID_KeeperDreamChorus"
+            "AthenaDance:"
         ],
         "price": 0
     },
     "daily3": {
         "itemGrants": [
-            "AthenaCharacter:CID_796_Athena_Commando_F_Tank"
+            "AthenaCharacter:"
         ],
         "price": 0
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_PlayerEleven"
+            "AthenaDance:"
         ],
         "price": 0
     },
     "daily5": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_014_WinterCamo"
+            "AthenaPickaxe:"
         ],
         "price": 0
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_179_StarWand"
+            "AthenaPickaxe:"
         ],
         "price": 0
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_732_Athena_Commando_F_Stars"
+            "AthenaCharacter:"
         ],
         "price": 0
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_660_Athena_Commando_F_BandageNinjaBlue"
+            "AthenaCharacter:"
         ],
         "price": 0
     },
     "featured3": {
         "itemGrants": [
-            "AthenaCharacter:CID_819_Athena_Commando_F_NeonTightSuit_B"
+            "AthenaCharacter:"
         ],
         "price": 0
     }
