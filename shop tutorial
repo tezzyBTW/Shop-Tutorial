@@ -53,5 +53,10 @@
             "AthenaCharacter:id-here"
         ],
         "price": 0
+    "featured4": {
+        "itemGrants": [
+            "AthenaCharacter:id-here"
+        ],
+        "price": 0
     }
 }
