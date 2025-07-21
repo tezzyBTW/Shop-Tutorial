@@ -2,60 +2,61 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaBackpack:id-here"
+            "AthenaBackpack:ID-HERE"
         ],
         "price": 0
     },
     "daily2": {
         "itemGrants": [
-            "AthenaDance:id-here"
+            "AthenaDance:ID-HERE"
         ],
         "price": 0
     },
     "daily3": {
         "itemGrants": [
-            "AthenaCharacter:id-here"
+            "AthenaCharacter:ID-HERE"
         ],
         "price": 0
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:id-here"
+            "AthenaDance:ID-HERE"
         ],
         "price": 0
     },
     "daily5": {
         "itemGrants": [
-            "AthenaPickaxe:id-here"
+            "AthenaPickaxe:ID-HERE"
         ],
         "price": 0
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:id-here"
+            "AthenaPickaxe:ID-HERE"
         ],
         "price": 0
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:id-here"
+            "AthenaCharacter:ID-HERE"
         ],
         "price": 0
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:id-here"
+            "AthenaCharacter:ID-HERE"
         ],
         "price": 0
     },
     "featured3": {
         "itemGrants": [
-            "AthenaCharacter:id-here"
+            "AthenaCharacter:ID-HERE"
         ],
         "price": 0
+    },
     "featured4": {
         "itemGrants": [
-            "AthenaCharacter:id-here"
+            "AthenaCharacter:ID-HERE"
         ],
         "price": 0
     }
