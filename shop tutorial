@@ -14,7 +14,7 @@
     },
     "daily3": {
         "itemGrants": [
-            "AthenaGlider:ID-HERE"
+            "AthenaCharacter:ID-HERE"
         ],
         "price": 0
     },
