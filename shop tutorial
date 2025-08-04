@@ -2,62 +2,74 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaBackpack:ID-HERE"
+            "AthenaBackpack:ur-id-here"
         ],
-        "price": 0
+        "price": 600
     },
     "daily2": {
         "itemGrants": [
-            "AthenaDance:ID-HERE"
+            "AthenaDance:ur-id-here"
         ],
-        "price": 0
+        "price": 500
     },
     "daily3": {
         "itemGrants": [
-            "AthenaGlider:ID-HERE"
+            "AthenaGlider:ur-id-here"
         ],
-        "price": 0
+        "price": 200
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:ID-HERE"
+            "AthenaDance:ur-id-here"
         ],
-        "price": 0
+        "price": 400
     },
     "daily5": {
         "itemGrants": [
-            "AthenaPickaxe:ID-HERE"
+            "AthenaPickaxe:ur-id-here"
         ],
-        "price": 0
+        "price": 4000
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:ID-HERE"
+            "AthenaPickaxe:ur-id-here"
         ],
-        "price": 0
+        "price": 800
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:ID-HERE"
+            "AthenaCharacter:ur-id-here"
         ],
-        "price": 0
+        "price": 1200
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:ID-HERE"
+            "AthenaCharacter:ur-id-here"
         ],
-        "price": 0
+        "price": 1400
     },
     "featured3": {
         "itemGrants": [
-            "AthenaCharacter:ID-HERE"
+            "AthenaCharacter:ur-id-here"
         ],
-        "price": 0
+        "price": 800
     },
     "featured4": {
         "itemGrants": [
-            "AthenaCharacter:ID-HERE"
+            "AthenaCharacter:ur-id-here"
         ],
-        "price": 0
+        "price": 1500
+    },
+    "featured5": {
+        "itemGrants": [
+            "AthenaCharacter:ur-is-here"
+        ],
+        "price": 1500
+    },
+    "featured6": {
+        "itemGrants": [
+            "AthenaCharacter:ur-id-here"
+        ],
+        "price": 1200
     }
 }
