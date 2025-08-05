@@ -15,73 +15,73 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaBackpack:ur-id-here"
+            "AthenaBackpack:Backpack-ID-here"
         ],
         "price": 0
     },
     "daily2": {
         "itemGrants": [
-            "AthenaDance:ur-id-here"
+            "AthenaDance:Dance-ID-here"
         ],
         "price": 0
     },
     "daily3": {
         "itemGrants": [
-            "AthenaGlider:ur-id-here"
+            "AthenaGlider:Glider-ID-here"
         ],
         "price": 0
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:ur-id-here"
+            "AthenaDance:Dance-ID-here"
         ],
         "price": 0
     },
     "daily5": {
         "itemGrants": [
-            "AthenaPickaxe:ur-id-here"
+            "AthenaPickaxe:Pickaxe-ID-here"
         ],
         "price": 0
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:ur-id-here"
+            "AthenaPickaxe:Pickaxe-ID-here"
         ],
         "price": 800
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:ur-id-here"
+            "AthenaCharacter:CID-here"
         ],
         "price": 0
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:ur-id-here"
+            "AthenaCharacter:CID-here"
         ],
         "price": 0
     },
     "featured3": {
         "itemGrants": [
-            "AthenaCharacter:ur-id-here"
+            "AthenaCharacter:CID-here"
         ],
         "price": 0
     },
     "featured4": {
         "itemGrants": [
-            "AthenaCharacter:ur-id-here"
+            "AthenaCharacter:CID-here"
         ],
         "price": 0
     },
     "featured5": {
         "itemGrants": [
-            "AthenaCharacter:ur-is-here"
+            "AthenaCharacter:CID-here"
         ],
         "price": 0
     },
     "featured6": {
         "itemGrants": [
-            "AthenaCharacter:ur-id-here"
+            "AthenaCharacter:CID-here"
         ],
         "price": 0
     }
