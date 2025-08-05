@@ -1,3 +1,4 @@
+'''
 {
     "//": "BR Item Shop Config",
     "daily1": {
@@ -73,3 +74,4 @@
         "price": 1200
     }
 }
+'''
