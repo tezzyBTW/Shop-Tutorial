@@ -14,45 +14,78 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
 {
     "//": "BR Item Shop Config",
     "daily1": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": [
+            "AthenaBackpack:ur-id-here"
+        ],
         "price": 0
     },
     "daily2": {
-      "itemGrants": [ "CID_TBD"],
+        "itemGrants": [
+            "AthenaDance:ur-id-here"
+        ],
         "price": 0
     },
     "daily3": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": [
+            "AthenaGlider:ur-id-here"
+        ],
         "price": 0
     },
     "daily4": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": [
+            "AthenaDance:ur-id-here"
+        ],
         "price": 0
     },
     "daily5": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": [
+            "AthenaPickaxe:ur-id-here"
+        ],
         "price": 0
     },
     "daily6": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": [
+            "AthenaPickaxe:ur-id-here"
+        ],
+        "price": 800
     },
     "featured1": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": [
+            "AthenaCharacter:ur-id-here"
+        ],
         "price": 0
     },
     "featured2": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": [
+            "AthenaCharacter:ur-id-here"
+        ],
         "price": 0
     },
     "featured3": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": [
+            "AthenaCharacter:ur-id-here"
+        ],
         "price": 0
     },
     "featured4": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": [
+            "AthenaCharacter:ur-id-here"
+        ],
         "price": 0
-    }   
+    },
+    "featured5": {
+        "itemGrants": [
+            "AthenaCharacter:ur-is-here"
+        ],
+        "price": 0
+    },
+    "featured6": {
+        "itemGrants": [
+            "AthenaCharacter:ur-id-here"
+        ],
+        "price": 0
+    }
+}
 }
 ```
 Important:
