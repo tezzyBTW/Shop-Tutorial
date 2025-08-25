@@ -72,6 +72,18 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
             "AthenaCharacter:CID-here"
         ],
         "price": 0
+    },
+    "featured5": {
+        "itemGrants": [
+            "AthenaCharacter:CID-Here"
+        ],
+        "price": 0
+    },
+    "featured6": {
+        "itemGrants": [
+            "AthenaCharacter:CID-here"
+        ],
+        "price": 0
     }
 }
 }
