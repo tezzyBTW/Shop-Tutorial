@@ -86,7 +86,6 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
         "price": 0
     }
 }
-}
 ```
 Important:
 **Please set the item prices thoughtfully, adjusting them based on each skin’s rarity and exclusivity to ensure a balanced and fair shop experience.**
