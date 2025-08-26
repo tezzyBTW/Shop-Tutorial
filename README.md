@@ -47,7 +47,7 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
         "itemGrants": [
             "AthenaPickaxe:Pickaxe-ID-here"
         ],
-        "price": 800
+        "price": 0
     },
     "featured1": {
         "itemGrants": [
