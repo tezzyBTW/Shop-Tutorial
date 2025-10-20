@@ -1,7 +1,7 @@
-# Recon Item Shop Tutorial!
+# Solar Item Shop Tutorial!
 
 > **Note:**
-> All Fortnite cosmetics are available at [Fortnite.gg](https://fortnite.gg/cosmetics?game=br&type=outfit&season=1,2,3,4,5,6,7,8,9,10,11,12).
+> All Fortnite cosmetics are available at [Fortnite.gg](https://fortnite.gg/cosmetics?game=br&type=outfit&season=1,2,3,4,5,6,7,8,9,10,11,12,13,14).
 
 ---
 
