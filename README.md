@@ -21,7 +21,7 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
     },
     "daily2": {
         "itemGrants": [
-            "AthenaDance:EID-ID-here"
+            "AthenaDance:EID-here"
         ],
         "price": 0
     },
@@ -33,7 +33,7 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID-ID-here"
+            "AthenaDance:EID-here"
         ],
         "price": 0
     },
